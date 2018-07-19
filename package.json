@@ -1,0 +1,15 @@
+{
+  "name": "luxury_fashion",
+  "version": "1.0.0",
+  "description": "luxury fashion website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "luxury",
+    "fashion"
+  ],
+  "author": "Liam McColgan",
+  "license": "MIT"
+}
